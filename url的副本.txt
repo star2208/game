@@ -11,4 +11,5 @@
 1308136910|||1|1CL_AngryZombies
 1308842530|||1|1QM_LineJump
 1310368554|||1|1CL_Moto
-1312626514|||1|CL_CartoonRush
+1312626514|||1|1CL_CartoonRush
+1312787249|||1|CL_TrafficRacing
