@@ -34,11 +34,11 @@
 1334017372|3DX_LineJump
 1334578908|3QM_FlippKnife 
 1329356044|LZ_CarParkingKit
-1329356151|LZ_HighWayRacer
+1329356151|极速赛车:3D竞速飞车游戏
 1336390784|LZ_CycleStunts
 1337574982|DX_TurckParkingKit
-1338152436|LZ_ToyCarSimulator
+1338152436|汽车游戏:极速真实飙车游戏
 1342041486|Space Rider:traffic racing game
-1341421459|赛车比赛:扣扣飞车特技游戏
+1341421459|全民赛车:赛车比赛单机游戏
 1341586785|合金喷气机:装备喷气机游戏
 1350637406|汽车停车:3d真实倒车大师游戏
